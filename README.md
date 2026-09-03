@@ -4,7 +4,7 @@
 
 I work where physical infrastructure meets modern IT: structured cabling, network hardware, connected devices, operating systems, cloud services, and the troubleshooting that brings them together.
 
-My background includes enterprise LAN deployments, Cat5/Cat6 and fiber, racks and patch panels, Fluke-based cable testing, IP surveillance, low-voltage systems, and network-connected IoT infrastructure. I am expanding that field experience through Linux administration, Python, cloud fundamentals, networking, and cybersecurity.
+My background includes enterprise LAN deployments, Cat5/Cat6 and fiber, racks and patch panels, Fluke-based cable testing, IP surveillance, low-voltage systems, and network-connected IoT infrastructure. With the introduction of HONDO, we anticipate an expansion of capabilities for all Network Infrastructure personnel. Specifically in the the areas of Linux Administration, Automation with Python, Cloud Storage Management and Troubleshooting, Legacy Network and Troubleshooting, and Spot Patching to re-enforce Cybersecurity.
 
 ## What I'm building
 
