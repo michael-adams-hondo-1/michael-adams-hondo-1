@@ -33,7 +33,7 @@ Infrastructure work is no longer divided between "the person who pulls cable" an
 
 That creates an opportunity to cultivate a broader kind of skilled worker: someone who can build the physical path, validate connectivity, configure the connected system, re-image or update a device, interpret diagnostic output, and communicate exactly what changed.
 
-HONDO is aimed at infrastructure contractors, staffing partners, cable and broadband service organizations, and the technicians they deploy. For companies operating across many sites and skill levels, the value is consistency: better questions in the field, clearer escalation, repeatable changes, stronger documentation, and training that follows the technician into the job.
+HONDO is aimed at infrastructure contractors, staffing partners, cable and broadband service organizations, and the technicians they deploy. For companies operating across many sites and skill levels, the value is consistency: better questions in the field, clearer escalation, repeatable changes, stronger documentation, and training that re-enforces the role of technician, network manager, network engineer.
 
 The need is practical, not theoretical:
 
