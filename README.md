@@ -8,17 +8,20 @@ My background includes enterprise LAN deployments, Cat5/Cat6 and fiber, racks an
 
 ## What I'm building
 
-**HONDO** is an evolving diagnostic and workforce-development platform for network infrastructure professionals - from field technicians to engineers and technical analysts.
+**HONDO - Hybrid Operations Network Diagnostic Orchestrator** - is an AI-powered diagnostic and workforce-development platform for network infrastructure professionals, from field technicians to engineers and technical analysts.
 
-The idea is simple: give the person standing in front of the equipment one place to investigate a problem, understand what the data means, decide what should happen next, carry out approved changes, and document the result.
+The operating idea is simple: pair the person standing in front of the equipment with an always-available AI infrastructure analyst. HONDO brings the active job, device data, network evidence, technical knowledge, and approved tools into one conversation so the technician can ask better questions, understand what the system is showing, and move toward a competent resolution.
+
+For infrastructure contractors and service organizations, the AI advantage is confidence at the point of work. A developing technician does not have to troubleshoot alone or wait until an expert becomes available. HONDO is being built to help interpret evidence, explain unfamiliar systems in practical language, recommend the next safe step, and recognize when the job should be escalated. Human approval remains part of any production change.
 
 HONDO is being developed to:
 
-- Bring device, network, server, log, and field observations into one analytical workflow
-- Identify infrastructure weaknesses, configuration issues, and likely points of failure
-- Hold a practical troubleshooting conversation using the context of the active job
-- Connect to vendor APIs and SDKs for monitoring, diagnostics, and controlled remediation
-- Help technicians configure systems, work with operating systems, interpret code, and isolate specific faults
+- Use AI to analyze device, network, server, log, and field observations in one evidence-based workflow
+- Hold a practical analytical conversation grounded in the equipment, symptoms, history, and requirements of the active job
+- Identify infrastructure weaknesses, configuration issues, likely failure points, and gaps that require more evidence
+- Connect to vendor APIs and SDKs for monitoring, diagnostics, and controlled, human-approved remediation
+- Explain commands, configurations, operating-system behavior, and code without losing the field context
+- Give newer technicians expert-level guidance while helping experienced technicians work faster and document more consistently
 - Produce clear closeout reports and deliver notifications by email or text
 - Turn real service calls into guided learning without separating training from the work
 
