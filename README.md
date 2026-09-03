@@ -29,7 +29,7 @@ HONDO is not meant to replace technicians or engineers. It is meant to increase 
 
 ## Why this matters
 
-Infrastructure work is no longer divided neatly between "the person who pulls cable" and "the person who configures the system." Modern technicians increasingly encounter switches, servers, sensors, firmware, cloud-managed devices, logs, APIs, and security requirements on the same job.
+Infrastructure work is no longer divided between "the person who pulls cable" and "the person who configures the system." Modern technicians increasingly encounter switches, servers, sensors, firmware, cloud-managed devices, logs, APIs, and security requirements on the same job.
 
 That creates an opportunity to cultivate a broader kind of skilled worker: someone who can build the physical path, validate connectivity, configure the connected system, re-image or update a device, interpret diagnostic output, and communicate exactly what changed.
 
