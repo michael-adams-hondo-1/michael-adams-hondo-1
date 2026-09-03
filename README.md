@@ -71,7 +71,3 @@ These are the operating conditions HONDO is being built for: more connected equi
 
 I am interested in network infrastructure, field-service technology, broadband workforce development, infrastructure automation, and the tools that help technicians grow beyond a single trade boundary.
 
-This profile will document that journey - including HONDO as its definition, integrations, and field use cases continue to develop.
-
-> Build the path. Read the system. Find the fault. Make the fix. Explain the result.
-
