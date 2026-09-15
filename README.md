@@ -72,3 +72,7 @@ These are the operating conditions HONDO is being built for: more connected equi
 
 I am interested in network infrastructure, field-service technology, broadband workforce development, infrastructure automation, and the tools that help technicians grow beyond a single trade boundary.
 
+<img width="1024" height="1536" alt="Be_A_Hondo_Tech_02" src="https://github.com/user-attachments/assets/54ed98e3-a418-49b0-8d76-0357f695e581" />
+
+
+
