@@ -1,4 +1,5 @@
-<img width="853" height="686" alt="image_6a2af6dd" src="https://github.com/user-attachments/assets/bd7d25f9-b551-48fb-af4f-8a8405278f7f" />
+<img width="1398" height="1125" alt="exec-b06089ae-c498-4b99-bfbf-cf9bc6e34777" src="https://github.com/user-attachments/assets/19988590-3eba-437c-b303-fd3165c85198" />
+
 # Hi, I'm Michael Adams
 
 ### Network infrastructure technician | Field systems analyst | Builder of HONDO
