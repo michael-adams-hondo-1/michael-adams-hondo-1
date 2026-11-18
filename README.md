@@ -6,11 +6,11 @@
 
 I work where physical infrastructure meets modern IT: structured cabling, network hardware, connected devices, operating systems, cloud services, and the troubleshooting that brings them together.
 
-My background includes enterprise LAN deployments, Cat5/Cat6 and fiber, racks and patch panels, Fluke-based cable testing, IP surveillance, low-voltage systems, and network-connected IoT infrastructure. With the introduction of HONDO, we anticipate an expansion of capabilities for all Network Infrastructure personnel. Specifically in the the areas of Linux Administration, Automation with Python, Cloud Storage Management and Troubleshooting, Legacy Network and Troubleshooting, and Spot Patching to re-enforce Cybersecurity.
+My background includes enterprise LAN deployments, Cat5/Cat6 and fiber, racks and patch panels, Fluke-based cable testing, IP surveillance, low-voltage systems, and network-connected IoT infrastructure. With the introduction of HONDO, we anticipate an expansion of capabilities for all Network Infrastructure personnel. Specifically in the the areas of Linux Administration, Automation with Python, Cloud Storage Management, Legacy Network Troubleshooting.
 
 ## What I'm building
 
-**HONDO - Hybrid Operations Network Diagnostic Orchestrator** - is an AI-powered diagnostic and workforce-development platform for network infrastructure professionals, from field technicians to engineers and technical analysts.
+**HONDO - Hybrid Operations Network Diagnostic Orchestrator** - is an AI-powered diagnostic and workforce-development platform for network infrastructure professionals. If your a network infrastructure professional, from field technician to engineer, this app is for you.
 
 The operating idea is simple: pair the person standing in front of the equipment with an always-available AI infrastructure analyst. HONDO brings the active job, device data, network evidence, technical knowledge, and approved tools into one conversation so the technician can ask better questions, understand what the system is showing, and move toward a competent resolution.
 
